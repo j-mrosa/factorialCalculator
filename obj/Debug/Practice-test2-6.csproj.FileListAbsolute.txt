@@ -1,0 +1,20 @@
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.exe.config
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.pdb
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csprojAssemblyReference.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice_test2_6.Form1.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice_test2_6.Properties.Resources.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csproj.GenerateResource.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csproj.CoreCompileInputs.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.pdb
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.exe.config
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\bin\Debug\Practice-test2-6.pdb
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csprojAssemblyReference.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice_test2_6.Form1.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice_test2_6.Properties.Resources.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csproj.GenerateResource.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.csproj.CoreCompileInputs.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Fall 2020\Introduction to programming\Practice\Practice-test2-6\obj\Debug\Practice-test2-6.pdb
